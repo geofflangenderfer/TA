@@ -5,7 +5,7 @@ sarahk asks:
 Hello Coding Help! While going through the weekly coding exercises, I have had some thoughts that I would like to get clarified.  
 1) Where exactly is the data we are pulling for each week? Are the weekly exercises part of a huge folder that relies on the 'running' the previous examples to get the data? 
 2) In all of the exercises, it would have been helpful to have an exercise in architecting how develop a solution. It seems like all the sample modules of code have been a) Load libraries b) define functions c)import data d)run functions e)plot functions 
-3)Is there is Github repo that I can pull from? Thank you!
+3) Is there is Github repo that I can pull from? Thank you!
 
 Please also note that for the Week 5 coding exercise, the link to the Andrew Ng k-mean video gives no video.
 
