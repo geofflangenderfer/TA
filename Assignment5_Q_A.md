@@ -32,9 +32,8 @@ To achieve this, would it require some supervised learning, such as 'training' t
   solution-exploratory data analysis, feature engineering, model fitting,
   repeat-a lot of it is also experimentation. You get a hunch about the data
   after visualizing it, then test out your theory, and iterate. 
-    - for further practice with this type of experimentation, check out the [titanic kaggle competition](https://www.kaggle.com/naresh31/titanic-machine-learning-from-disaster)
-
-- [Github](www.github.com/geofflangenderfer/Assignments): Feel free to pull down
+    - for further practice with this type of experimentation, check out the [titanic kaggle competition](https://www.kaggle.com/c/titanic/overview)
+- [Github](https://www.github.com/geofflangenderfer/Assignments): Feel free to pull down
   a copy from the repository.
 
 - [Andrew Ng k-means](https://www.youtube.com/watch?v=hDmNF9JG3lo): Here's a link
