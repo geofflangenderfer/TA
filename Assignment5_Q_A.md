@@ -33,8 +33,7 @@ To achieve this, would it require some supervised learning, such as 'training' t
   repeat-a lot of it is also experimentation. You get a hunch about the data
   after visualizing it, then test out your theory, and iterate. 
     - for further practice with this type of experimentation, check out the [titanic kaggle competition](https://www.kaggle.com/c/titanic/overview)
-- [Github](https://www.github.com/geofflangenderfer/Assignments): Feel free to pull down
-  a copy from the repository.
+- Unfortunately, there isn't a public copy of the assignments right now. 
 
 - [Andrew Ng k-means](https://www.youtube.com/watch?v=hDmNF9JG3lo): Here's a link
   on youtube.
