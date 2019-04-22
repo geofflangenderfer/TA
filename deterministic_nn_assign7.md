@@ -5,7 +5,7 @@ What's the reason that training the neural nets with the same data is not a stri
 
 # Answer
 In short, we use randomness to initialize the weights at the beginning of
-[stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Iterative_method). So, each iteration of SGD will have a slightly
+[stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Iterative_method). So, each iteration of SGD will have a slightly
 different answer depending on the initialization. Getting into the mechanics
 of [Keras](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense),
 we can see the default setting for kernel_initializer='glorot_uniform'. This is the
