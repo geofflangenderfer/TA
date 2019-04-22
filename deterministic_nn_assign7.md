@@ -13,9 +13,6 @@ method used to randomly initialize the weights. Additionally, stochastic
 gradient descent sometimes will converge to a local minima rather than the
 global minimum. You may get a different local min on different runs.
 
-```python
-?tensorflow.keras.layers.Dense
-```
 
 ## Read more
 - [Random weights](https://machinelearningmastery.com/why-initialize-a-neural-network-with-random-weights/)
